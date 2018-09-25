@@ -8,7 +8,7 @@ public class Runner
 	{
 		int [][] arr = new int[9][9];
 		
-		// name of the puzzle file
+		// name of the puzzle file(existing puzzles: easy.txt medium.txt hard.txt evil.txt)
 		String filename = "evil.txt";
 		
 		/* get the puzzle file in text format with numbers separated by spaces and 0 representing empty cells
