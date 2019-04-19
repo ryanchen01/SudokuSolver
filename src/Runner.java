@@ -36,6 +36,8 @@ public class Runner
 		
 		Board board = new Board(arr);
 		board.run();
+		
+		scanner.close();
 	}
 
 }
